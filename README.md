@@ -18,5 +18,5 @@ Excel Formulas, Conditional Formatting, Icon Sets, IF Statements, Data Visualiza
 - gradebook_dashboard.png - screenshot of dashboard
 
 Built by Mick — Limpopo, South Africa
-![Dashboard Preview.png](Capture.PNG)
+![Dashboard Preview.png](dashboard.png)
 Built by Mick - Limpopo, South Africa
