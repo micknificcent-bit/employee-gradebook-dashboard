@@ -15,8 +15,7 @@ Excel Formulas, Conditional Formatting, Icon Sets, IF Statements, Data Visualiza
 
 ## Files
 - gradebook project.xlsx - full working workbook
-- gradebook_dashboard.png - screenshot of dashboard
+- dashboard.png - screenshot of dashboard
 
 Built by Mick — Limpopo, South Africa
 ![Dashboard Preview](dashboard.png)
-Built by Mick - Limpopo, South Africa
