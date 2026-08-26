@@ -2,6 +2,7 @@
 # Employee Performance Gradebook Dashboard
 
 HR Analytics project built in Excel to automate employee performance tracking.
+![Dashboard Preview](dashboard.png)
 
 ## What it does
 - Tracks 3 key tests: Safety Test, Company Philosophy, Financial Skills
@@ -18,4 +19,3 @@ Excel Formulas, Conditional Formatting, Icon Sets, IF Statements, Data Visualiza
 - dashboard.png - screenshot of dashboard
 
 Built by Mick — Limpopo, South Africa
-![Dashboard Preview](dashboard.png)
